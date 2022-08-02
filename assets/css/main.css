@@ -77,3 +77,31 @@
     color: #fff;
     
 }
+
+/* Header qr code*/
+
+.header__qr{
+    width: 130px;
+    background-color: var(--white-color);
+    position: absolute;
+    left: 0;
+    top: 100%;
+
+}
+
+.header__qr-img{
+
+}
+
+.header__qr-apps{
+
+}
+
+.header__qr-download-img{
+
+}
+
+.header__qr-download-img{
+
+}
+
