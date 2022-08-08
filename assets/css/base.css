@@ -71,6 +71,11 @@ html{
     border-radius: 5px;
 }
 /* button style*/
+
+.btn:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
 .btn{
     min-width: 142px;
     height: 36px;
