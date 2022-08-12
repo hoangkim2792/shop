@@ -433,7 +433,9 @@
     font-size: 2.6rem;
     margin-top: 6px;
 }
-
+.header__search-input-wrap{
+    flex: 1;
+}
 .header__search-input{
     width: 100%;
     height: 100%;
@@ -443,10 +445,6 @@
     color: var(--text-color);
     padding: 0 16px;
     border-radius: 2px;
-}
-
-.header__search-input-wrap{
-    flex: 1;
 }
 
 .header__search-select{
